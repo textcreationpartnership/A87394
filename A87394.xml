@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A joyfull message sent from the citizens of London, to the Kings Majesty in the Isle of Wyght, and their declaration for his present coming to London, to sit in Parliament in honour, magnifience [sic], and tryumph; with his Majesties new covenant and protestation to the citizens, and all other his loyall and liege people within his realms and dominions, upon his re-inthroning to be read in all churches throughout the 3. kingdoms of England, Scotland, and Ireland, and principlaity of Wales. With his last and finall declaration touching the same, delivered to the Right Honorable, the Earle of Northumberland, on Fryday last. Novemb. 17. 1648.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87394</idno><idno type="EEBO-CITATION">99865066</idno>
+  <idno type="VID">162422</idno>
+  <idno type="EEBO-PROQUEST">2240915832</idno>
+  
+            <idno type="STC">Wing J1129</idno>
+            <idno type="STC">Thomason E472_17</idno>
+            <idno type="STC">ESTC R205795</idno>
+            <idno type="PROQUEST">99865066</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865066e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87394)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162422)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 75:E472[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A joyfull message sent from the citizens of London, to the Kings Majesty in the Isle of Wyght, and their declaration for his present coming to London, to sit in Parliament in honour, magnifience [sic], and tryumph; with his Majesties new covenant and protestation to the citizens, and all other his loyall and liege people within his realms and dominions, upon his re-inthroning to be read in all churches throughout the 3. kingdoms of England, Scotland, and Ireland, and principlaity of Wales. With his last and finall declaration touching the same, delivered to the Right Honorable, the Earle of Northumberland, on Fryday last. Novemb. 17. 1648.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Williamson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The words "upon his re-inthroning" are included in square brackets on the titlepage.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Peace --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162422:1"/>
+            <p>A JOYFULL MESSAGE SENT From the Citizens of London, to the Kings Ma<g ref="char:EOLhyphen"/>jesty in the Isle of <hi>Wyght,</hi> And their Declaration for his present com<g ref="char:EOLhyphen"/>ing to <hi>London,</hi> to sit in Parliament in <hi>Honour, Magnifience,</hi> and <hi>Try<g ref="char:EOLhyphen"/>umph;</hi> With his <hi>Majesties</hi> new Covenant and Protestation to the Ci<g ref="char:EOLhyphen"/>tizens, and all other his loyall and liege people within his Realms and Dominions, [upon his re-inthroning] to be read in all Churches throughout the 3. Kingdoms of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> and Principality of <hi>Wales.</hi> With his last and finall Declaration touching the same, delivered to the Right Honorable, the Earl of <hi>Northum<g ref="char:EOLhyphen"/>berland,</hi> on Fryday last. <hi>Novemb.</hi> 17. 1648.</p>
+            <p>
+               <figure>
+                  <head>C R</head>
+                  <q xml:lang="frm">HONI SOIT OVI MAL Y PENSE</q>
+                  <figDesc>English royal blazon surmounted by a crown</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>blazon of the City of London, consisting of a shield bearing the cross of St. George (patron saint of England) with a sword (emblem of the martyrdom of St. Paul, patron saint of London) in the first quarter of the shield</figDesc>
+               </figure>
+            </p>
+            <p>London, <hi>Printed for</hi> R. Williamson, 1648.</p>
+            <pb facs="tcp:162422:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:162422:2"/>
+            <head>A Message and Declaration sent from the Citizen of <hi>London,</hi> to the Kings Majesty in the Isle of <hi>Wyght</hi> Novemb. 17. 1648.</head>
+            <opener>
+               <salute>Most dread Soveraign.</salute>
+            </opener>
+            <p>VVHereas it doth evidently appear to the world, that your Royall Person is now the Center of Peace. We therefore the most humble and most unworthy of all Your Majesties Servants and Subjects, having a long time, from our ve<g ref="char:EOLhyphen"/>ry souls grieved the sad condition of your sacred Person, your Royall Consort, and most Princely and Nume<g ref="char:EOLhyphen"/>rous Issue, the sad and languishing Estate of your Ma<g ref="char:EOLhyphen"/>jest<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es 3. Kingdoms, the horrid and dayly bloodshed of your poor Subjects, perpetreated by your own hands, af<g ref="char:EOLhyphen"/>ter some earnest prayers to Almighty God (from whom alone cometh every good and perfect gift) to enable us some way to express to your Majesty and the Kingdom, somthing which might, at least, point out the way to a
+<pb n="2" facs="tcp:162422:3"/> happy peace, and a perfect and right understanding be<g ref="char:EOLhyphen"/>tween you and your people. It hath pleased God of his infinite goodness and mercy, to open unto us this door or entrance at least for your Maj. if you are so pleased, to passe through into the <hi>Temple of peace;</hi> which Temple is only in your Maj. power to build, and in the power of no mortall man besides: Your sacred Maj. must take the pains to lay the first and the last in this building; Your self must begin and perfect this great work: It is you a<g ref="char:EOLhyphen"/>lone that have found the Art of Oblivion, as well as you have the power to give an Act of the highest Oblivion, that was ever read of in the Annalls of any <hi>Monarch</hi> whatsoever. Your Maj. many Declarations to both Hou<g ref="char:EOLhyphen"/>ses of Parl. and to your 3. Kingdoms, have so deeply seized our souls with belief, that we are confident, your Majesty will not refuse to do or offer any things to your people, in your power, that may conduce to a safe and well-grounded peace, so as that you are not in the least prejudiced in what you are so great a Master of, <hi>Reason,</hi> &amp; so great a Servant to, <hi>Religion;</hi> and for this poor Talent which God hath vouchsaffed us, &amp; which we here most humbly prostrate at your Maj. Feet. We hope you will not find, that in the least, we have been so presumptuous, or proved our selves such Traitors, to your <hi>Reason</hi> or <hi>Re<g ref="char:EOLhyphen"/>ligion,</hi> as to have offered any violence, in the least degree, to either of them; If your Maj. in the perusal, shall find it so, we know, as an Angell of God, so is our Lord the King to discern good and bad. Therefore thy Lord, thy God, shall be with thee, and so shall they for ever pray, who subscribes,</p>
+            <closer>
+               <signed>Your most humble obedient <hi>Subjects and Servants.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="speech">
+            <pb n="3" facs="tcp:162422:3"/>
+            <head>His Majesties Speech to the Earl of Northumberland on Fri<g ref="char:EOLhyphen"/>day morning last, and his Protestation thereupon.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>THis morning his Maj. and the Commissioners met in the Treaty Chamber, where the King, (according to his usuall manner) sat down in the Chair of State, and after some further debate, about the Bill of Church Go<g ref="char:EOLhyphen"/>vernment, His Maj. rose up, and made a Speech: where he most graciously unfolded the Secrets of his royall breast; protesting, That he never had so good an opinion of his 2. Houses of Parl. since the unhappy separation, as now at present, and that he doubts not, but he shall give them good satisfaction, in all things by them desired, so<g ref="char:EOLhyphen"/>beit, it may stand with the honour of his Majestie, and the fundamentall Lawes of the Realm.</p>
+            <p>His Majesties Courtiers begin to frown upon the joyful results of the Treaty, fearing that they shall not accom<g ref="char:EOLhyphen"/>plish that which they first aimed at; for upon a motion to his Maj. touching a general act of oblivion, and his Maj. to enter into a Protestation to his people, for their future safety, liberties and Freedoms, divers of the great ones shewed a dislike thereof, others countenanced it with a smile, and upon the Agrement, and close of the Treatie, it is conjectured. His Maj. will firmly tye himself in Co<g ref="char:EOLhyphen"/>venant with his people in a strong Protestation and En<g ref="char:EOLhyphen"/>gagement, A Copy whereof I have sent you here inclo<g ref="char:EOLhyphen"/>sed.</p>
+            <closer>
+               <dateline>Newport. <date>Novemb. 18. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="oath">
+            <pb n="4" facs="tcp:162422:4"/>
+            <head>The Kings new Covenant and Pro<g ref="char:EOLhyphen"/>testation to his people.</head>
+            <p>
+               <hi>I C. R.</hi> Do here in the presence of the blessed Trinity (God the Father, God the Son, and God the holy Ghost) profess to all the world, without any Equivocation or mentall Reservation, that I now do, and for ever will forget and forgive all kinds of of<g ref="char:EOLhyphen"/>fences against me, either in word or deed, committed by any of my Subjects of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and contained in the Act of Oblivion; and this of my own free will and desire, I do, That all my people may see and behold the Candor of my heart. And I do here bu<g ref="char:EOLhyphen"/>ry in the grave of Oblivion, all things con<g ref="char:EOLhyphen"/>tained in the Act of Oblivion, in my Soul not desiring to remember it, and vowing ne<g ref="char:EOLhyphen"/>ver to revenge it. So help me God, and the Contents of this holy Book: and this <hi>I</hi> con<g ref="char:EOLhyphen"/>firm by the taking of the Sacrament.</p>
+         </div>
+         <div type="appeal_to_the_king">
+            <pb n="5" facs="tcp:162422:4"/>
+            <head>A new Remonstrance to his Majesty, from his Subjects of England, at Newport in the Isle of Wyght.</head>
+            <p>COnsider I beseech you the value of the Soul, that is thus cast down, That your Sighs are the breath of Heaven, your Teares are the wine of Angells, your Groans the Eechoes of the Holy Ghost, that therefore to imploy this sacred Treasure in prophain expences, to lay it out on the trifles of this world, is a sin no lesse then Sacriledge; Be therefore more thrifty of your sorrow, for the time may come, when you shall want those sighs, which now you so impertinently throw away; nay, saith <hi>Bonaventure,</hi> should the Devil set 3. on that Pinacle where he had our Saviour, should he offer thee all the Kingdoms of the whole world for one Teare, to be spent in his ser<g ref="char:EOLhyphen"/>vice, O do not give it him; for on thy Death bed for that one Teare, perhaps thou wouldst give a Thousand worlds.</p>
+            <p>Think of this, ye that feel the heavinesse of your soul, think of it ye that do not, for ye may feel it. Know there is <hi>a sorrow that worketh repentance not to be repented of,</hi> A<g ref="char:EOLhyphen"/>gain, <hi>there is a sorrow that worketh Death.</hi> Remember there were tears, that got sinfull <hi>Mary</hi> heaven, Remember a<g ref="char:EOLhyphen"/>gain, there were tears that could get <hi>Esau</hi> nothing. For as in Martyrdom it is not the sword, the boyling lead, or fire, not what we suffer, but deep they wound, but why, that justifies them. Let every one therefore, that hath a troubled heart, ask his soul the <hi>why, Why art thou cast down?</hi> Is it not for thine own sins, or for the sins of o<g ref="char:EOLhyphen"/>thers? take either of them, thine eyes will have a large field to water; it is for that thou hast been a Child of
+<pb n="6" facs="tcp:162422:5"/> wrath, a Servant of the Devil? Is it for that thou art a Candle set in the windblown at by several temptations; or is it for that thou wouldst be freed from them▪ <hi>Woe is me that I dwell in Mesech, that I dwell so long in the tents of Kedar.</hi> Art thou troubled, as St. <hi>Austine</hi> was; when he read that the way to Heaven was narrow, the number small that <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rrvailed thither? Or hast thou put on St, <hi>Barnards</hi> resolution, who had made a compact with his soul, never to joy till he had heard his Saviour call him, <hi>Come thou blessed,</hi> nor never to leave sorrowing till he had escaped the bitter sentence. <hi>Go ye cursed?</hi> If any of these be the <hi>Why,</hi> the ground of thy sorrows, if such thoughts have cast thee down, know that thy Savour hath already bles<g ref="char:EOLhyphen"/>sed thee; For, <hi>Blessed are they that mourn.</hi> The Angels are thy Servants, they gather thy Tears, God is thy Treasu<g ref="char:EOLhyphen"/>rer, he layes them up in his bottle, the holy Ghost is thy Comforter, he will not leave thee. Fear not then to be thus cast down, fear not to be thus disquieted within thee.</p>
+            <closer>
+               <signed>
+                  <hi>Signed by Your Majesties loyall Subjects,</hi> &amp;c.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
